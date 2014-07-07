@@ -12,7 +12,7 @@
     </types>
     <types>
     	<members>Queue_Members</members>
-    	<members>CustomTab</members>
+    	<name>CustomTab</name>
     </types>
     <version>30.0</version>
 </Package>
